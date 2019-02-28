@@ -1,5 +1,7 @@
 # VuePress Theme for ClairDesign
 
+On the way... Maybe never...
+
 ```html
 @playground
 <button>click</button>
